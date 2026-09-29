@@ -96,6 +96,3 @@ ant
 
 La prioridad de esta práctica es mostrar de forma clara cómo colaboran distintos patrones dentro de una misma aplicación. Por ello, algunas decisiones de diseño están orientadas a facilitar el estudio y la identificación de cada patrón más que a construir una arquitectura de producción.
 
-## Autor
-
-Repositorio mantenido por [Nico3246](https://github.com/Nico3246).
